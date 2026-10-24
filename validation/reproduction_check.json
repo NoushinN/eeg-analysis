@@ -1,0 +1,7 @@
+{
+  "status": "passed",
+  "regional_rows_checked": 96,
+  "inputs": "included header-redacted EDF copies",
+  "tolerance": 1e-12,
+  "R_status": "not executed"
+}

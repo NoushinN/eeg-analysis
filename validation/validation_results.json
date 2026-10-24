@@ -1,0 +1,9 @@
+{
+  "sinusoid_frequency_hz": 10,
+  "sinusoid_peak_amplitude_uV": 10,
+  "expected_alpha_power_uV2": 50,
+  "measured_alpha_power_uV2": 49.999999999999986,
+  "independent_fft_max_error": 1.1368683772161603e-13,
+  "data_integrity_records": 3,
+  "R_execution_status": "Not executed; runtime unavailable"
+}

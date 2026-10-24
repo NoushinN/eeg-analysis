@@ -1,0 +1,11 @@
+data/raw/
+.Rhistory
+.RData
+.Rproj.user/
+__pycache__/
+results_R/
+results_python/
+
+build/
+.venv/
+.DS_Store

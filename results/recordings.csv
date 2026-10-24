@@ -1,0 +1,4 @@
+condition,duration_s,fs_hz,signal_channels
+EO,362.0,256.0,24
+EC,377.0,256.0,24
+TCF,284.0,256.0,24

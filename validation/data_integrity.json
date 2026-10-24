@@ -1,0 +1,20 @@
+[
+  {
+    "file": "recording_1_EO.edf",
+    "sha256_original": "ff33a1c3d57ac33fcfadbbcacfda5fef1ebf0ce613401ba3149b4e2ee9b15532",
+    "sha256_header_redacted": "7331145a61c96107af519f77cd7f63702d302305cf69f35437a5f80f7383e7ed",
+    "signal_and_annotation_bytes_unchanged": true
+  },
+  {
+    "file": "recording_3_EC.edf",
+    "sha256_original": "d46d3b21f20343819d7e060e7330a7525d55406c0fed4a4c2d97ef1441acd712",
+    "sha256_header_redacted": "c76a0782da72cd8d351440e8d468cd0a50a80222b3de4d2717207a87dbba7784",
+    "signal_and_annotation_bytes_unchanged": true
+  },
+  {
+    "file": "recording_4_Intervention.edf",
+    "sha256_original": "5c3ef55fa096c9a53476804926b7494a68f8f8442ad9c55225031ad67e245efd",
+    "sha256_header_redacted": "927035f4254d76fcc3619860c33e66454527801ea05caace974731aa6a5554db",
+    "signal_and_annotation_bytes_unchanged": true
+  }
+]
